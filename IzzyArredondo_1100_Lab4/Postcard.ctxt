@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=aSender\ aMessage
+comment0.target=Postcard(java.lang.String,\ java.lang.String)
+comment1.params=r
+comment1.target=void\ setRecipient(java.lang.String)
+comment2.params=
+comment2.target=void\ print()
+numComments=3
